@@ -1,0 +1,32 @@
+.wrap {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.wrap h1 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.form-table th {
+    width: 200px;
+}
+
+.wp-list-table {
+    margin-top: 20px;
+}
+
+#heatmap-container {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+#scroll-depth-container {
+    margin-top: 10px;
+    border: 1px solid #ddd;
+}
